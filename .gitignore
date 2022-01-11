@@ -6,3 +6,4 @@ dist/
 coverate/
 .vscode/
 .parcel-cache
+.gitignore
